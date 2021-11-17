@@ -14,6 +14,5 @@
 
 
  
-  ![Snake animation](https://github.com/yagocode/yagocode/blob/main/github-contribution-grid-snake.svg)
  
-</div>
+ 
