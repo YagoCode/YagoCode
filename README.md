@@ -1,7 +1,6 @@
 
   <div align="center">
   <a href="https://github.com/yagocode">
-  <img height="120em" width="auto"  src="https://github-readme-stats.vercel.app/api?username=yagocode&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagocode&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br><br><br>
